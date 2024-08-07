@@ -18,6 +18,8 @@ function App() {
     console.log(audioStream)
   }, [audioStream])
 
+  //3:50:08
+
   return (
     <>
       <div className='flex flex-col px-4'>
