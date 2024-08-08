@@ -50,4 +50,6 @@ async function transcribe(audio) {
     })
     
     generationTracker.sendFinalResult()
+
+    //4:19:32
 }
